@@ -1,0 +1,33 @@
+Tabela da verdade é um dispositivo utilizado no estudo da lógica matemática.
+
+Na tabela da verdade temos: verdadeiro, falso e terceiro excluído.
+
+
+Exmeplo 1:
+
+Preprosição verdadeira:
+p= Mari ensina programação. 
+q= Mari é programadora.
+
+Na tabela da verdade fica: p^q
+
+
+
+Exemplo 2:
+
+Preprosição falsa:
+p= Tiago é programador.
+q = Tiago nunca estudou programação.
+
+Logo Tiago ser programador é falso (~p).
+Na tabela da verdade fica: pvq.
+
+
+
+Exemplo 3:
+
+Terceiro excluído:
+p=Tais cozinha.
+q=Tais é cozinheira.
+
+Tais cozinha mas não é cozinheira.

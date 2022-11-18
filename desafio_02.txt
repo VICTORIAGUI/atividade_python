@@ -1,0 +1,11 @@
+A variável é um nome dado a um determinado valor. E pode ser modificado dependendo do tipo de dado e suas condições. 
+
+Uma variável se escreve da seguinte forma:
+A variável é sempre posta do lado esquerdo e se separa do valor com um simbolo de '='. Que quando se tem apenas um quer dizer que estamos atribuindo um valor á uma variável.E uma variável não pode possuir nenhum caractere especial.
+
+Exemplo:
+variável = valor 
+idade = 15 
+
+Nisso temos a variável 'idade' e seu valor '15'.
+ 

@@ -1,0 +1,10 @@
+# Dicionário: É um tipo de dado flexivel. São utilizadas para agruprar elementos através da estrutura de chave e valor, onde a chave é o primeiro elemento seguido por dois pontos e pelo valor.
+
+# Exemplo: Podemos especificar o valor de alguns livros. 
+
+livros = {'Matilda':40, 'Harry Potter':60, 'O Alquimista':30, 'Senhor dos Anéis':'90,4', 'O Pequeno Principe': 35}
+
+frete = {'Matilda':10, 'Harry Potter':20, 'O Alquimista':15, 'Senhor dos Anéis':10, 'O Pequeno Principe':10}
+
+print(type(livros))
+print(type(frete))
